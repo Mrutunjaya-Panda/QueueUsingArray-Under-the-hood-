@@ -26,7 +26,7 @@ QueueUsingArray-Under-the-hood/
 └── README.md
 
 ---
-
+```
 ## ⚙️ Features Implemented
 
 - Queue implementation using **arrays**
