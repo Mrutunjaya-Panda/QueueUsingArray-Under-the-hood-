@@ -12,6 +12,7 @@ A **Queue** is a linear data structure that follows the
 
 ---
 
+```text
 ## 📂 Project Structure
 
 QueueUsingArray-Under-the-hood/
